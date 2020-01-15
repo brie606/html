@@ -1,0 +1,186 @@
+body {
+  background-color: #FFF;
+  margin: 0 auto;
+  padding-bottom: 80px;
+  }
+
+header {
+  background-color: Black;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+#Information,
+#Transportation,
+#Activities,
+#Dining,
+#Expenses {
+	margin-top: 70px;
+	background-color: #6B0252;
+}
+.info {
+	text-align: center;
+}
+
+.container {
+	float: right;
+	background-color: #890241;
+	padding-top: 60px;
+	padding-left: 60px;
+}
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 250px;
+}
+
+li a:hover {
+  color: Black;
+}
+h1 a {
+	color: black;
+}
+h1 {
+  color: #466995;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+ol li {
+	color: black;
+	 font-family: 'Varela Round', sans-serif;
+}
+h2 {
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 26px;
+  font-weight: 100;
+  margin: 0 auto 20px auto;
+}
+a strong {
+	color: black;
+	 cursor: pointer;
+	 
+  font-family: 'Oswald', sans-serif;
+	 
+}
+h2 img {
+	width: 100%;
+}
+
+h3 {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 200px;
+  text-align:center;
+  margin-top: 30px;
+}
+#city {
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+	color:white;
+}
+h4 {
+  color: White;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase
+}
+center p {
+	font-size: 32px;
+}
+p {
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+  height: 80px;
+  background-color: Black;
+  width: 100%;
+  z-index: 10;
+  text-align: center;
+}
+
+.welcome {
+  background-color: #152266;
+  box-sizing: border-box;
+  padding-top: 170px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 50px;
+}
+.tran {
+	text-align: center;
+}
+.question {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+
+
+
+.answer:hover {
+  background: #C0D6DF;
+  color: #FFF;
+}
+#drop h1 {
+	color:black;
+	position:relative;
+	padding-top: 25px;
+	padding-bottom: 40px;
+	padding-right: 50px;
+}
+.one h1 {
+	cursor: pointer;
+}
+.main {
+	overflow: scroll;
+	box-sizing: border-box;
+	height: 750px;
+}
+strong,
+h2 center {
+	text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+}
+.act {
+	text-align: center;
+}
+h1 a:hover {
+	color: white;
+}
